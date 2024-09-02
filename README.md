@@ -13,7 +13,7 @@ in my early 20s
 
 **My Hobbys are**
 - E-Bike
-- reading Mangas
+- reading Mangas and watch animes
 - American Football 
 - Taking care of my Plants at home
 - Play Ps4 Rocket League
