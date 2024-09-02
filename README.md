@@ -9,6 +9,7 @@ Before i started coding, i was working 10 years in in logistics.
 
 ![description of image](https://infomedia.sh/wp-content/uploads/2020/10/staplerfahrer-1.jpg)
 
+in my early 20s
 
 **My Hobbys are**
 - E-Bike
