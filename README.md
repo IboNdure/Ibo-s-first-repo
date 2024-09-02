@@ -11,16 +11,15 @@ Before i started coding, i was working 10 years in in logistics.
 
 in my early 20s
 
-**My Hobbys are**
+## My Hobbys are
 - E-Bike
-- reading Mangas and watch animes
 - American Football 
 - Taking care of my Plants at home
 - Play Ps4 Rocket League
 - One Piece Manga/Anime
   
  ![description of image](https://static.wikia.nocookie.net/onepiece/images/e/e5/Monkey_D._Luffy_Anime_Pre_Timeskip_Infobox.png/revision/latest?cb=20230218134949)
-  ### My work preference
+ ### My work preference
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -34,6 +33,6 @@ in my early 20s
  - 📫 How to reach me: just call my name
  - ![description of image](https://forums.civfanatics.com/media/batmansignallight.5554/full?d=1565538438) 
  
-**My Vision**
+  #### My Vision
 
 ![description of image](https://miro.medium.com/v2/resize:fit:426/1*rbh57fTYM_1BZqf1zporGw.png)
