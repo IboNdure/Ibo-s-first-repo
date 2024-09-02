@@ -29,7 +29,11 @@ in my early 20s
 -  🔭 I’m currently working on my skills in Coding
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about everything u want, but dont expect an answer ;)
-- 📫 How to reach me: just call my name
 - ⚡ Fun fact: i dont overstand how people can eat Brussels Sprouts
 ![description of image](https://www.pomki.de/fileadmin/redaktion/bilder/wennkriselt/ratschlag/rosenkohl1-1920x1280_c_sarah-nieves.jpg)
-  
+ - 📫 How to reach me: just call my name
+ - ![description of image](https://forums.civfanatics.com/media/batmansignallight.5554/full?d=1565538438) 
+ 
+**My Vision**
+
+![description of image](https://miro.medium.com/v2/resize:fit:426/1*rbh57fTYM_1BZqf1zporGw.png)
