@@ -22,7 +22,7 @@ Bremen Germany is my home
 -  🔭 I’m currently working on my skills in Coding
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about everything u want, but dont expect an answer ;)
-- 📫 How to reach me: shout out my Name or dm me
+- 📫 How to reach me: just call my name
 - ⚡ Fun fact: i hate Brussels Sprouts
 ![description of image](https://www.pomki.de/fileadmin/redaktion/bilder/wennkriselt/ratschlag/rosenkohl1-1920x1280_c_sarah-nieves.jpg)
--->
+  
