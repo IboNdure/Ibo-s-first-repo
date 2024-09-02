@@ -1,8 +1,14 @@
 # IboNdure
 **Welcome to my page** 
 
-My name is Ibo Ndure 31 years old 
-Bremen Germany is my home
+My name is Ibo Ndure 31 years old.
+
+Bremen Germany is my home.
+
+Before i started coding, i was working 10 years in in logistics.
+
+![description of image](https://infomedia.sh/wp-content/uploads/2020/10/staplerfahrer-1.jpg)
+
 
 **My Hobbys are**
 - E-Bike
