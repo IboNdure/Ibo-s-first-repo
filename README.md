@@ -29,6 +29,6 @@ Before i started coding, i was working 10 years in in logistics.
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about everything u want, but dont expect an answer ;)
 - 📫 How to reach me: just call my name
-- ⚡ Fun fact: i hate Brussels Sprouts
+- ⚡ Fun fact: i dont overstand how people can eat Brussels Sprouts
 ![description of image](https://www.pomki.de/fileadmin/redaktion/bilder/wennkriselt/ratschlag/rosenkohl1-1920x1280_c_sarah-nieves.jpg)
   
