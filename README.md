@@ -19,9 +19,10 @@ Bremen Germany is my home
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-- - 🔭 I’m currently working on my skills in Coding
+-  🔭 I’m currently working on my skills in Coding
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about ...
 - 📫 How to reach me: shout out my Name or dm me
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i hate Brussels Sprouts
+![description of image](https://www.pomki.de/fileadmin/redaktion/bilder/wennkriselt/ratschlag/rosenkohl1-1920x1280_c_sarah-nieves.jpg)
 -->
