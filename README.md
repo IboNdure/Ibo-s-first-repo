@@ -5,7 +5,8 @@ My name is Ibo Ndure 31 years old.
 
 Bremen Germany is my home.
 
-Before i started coding, i was working 10 years in in logistics.
+Before i started coding, i was working 10 years in the Warehouse Management.
+I´ve done my Master in Warehouse Management.
 
 ![description of image](https://infomedia.sh/wp-content/uploads/2020/10/staplerfahrer-1.jpg)
 
